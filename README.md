@@ -23,6 +23,8 @@ config.handlers.triage_slack.users = [ 'Igneous', 'Freud' ]
 ```
 @bot: redalert on Shit's goin down
 bot: #triage is now active, all hands to battle stations, standby phasers
+```
+
 
 ```
 @bot: redalert off
